@@ -1,0 +1,25 @@
+Image{
+  padding: 0px;
+  text-align: center;
+}
+
+h1{
+      text-align: center;
+      color: #181b21;
+font-family: Playfair Display;
+font-size: 40px;
+font-style: normal;
+font-weight: 600;
+line-height: 100%; /* 40px */
+  text-transform: capitalize;
+}
+p{
+      color: #000;
+text-align: center;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 120%; /* 24px */
+  text-transform: capitalize;
+}

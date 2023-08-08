@@ -1,0 +1,29 @@
+.icon{
+    border-radius: 10px;
+    background: #222831;
+    position: relative;
+    border: solid 10px rgb(51, 48, 48);
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: -100px;
+    z-index: +1;
+} 
+
+.call{
+    display: flex;
+    margin-left:auto;
+    border: solid 1px black;
+    padding: 20px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.icon1{
+    display: flex;
+    margin-left:auto;
+    border: solid 0px black;
+    padding: 100px;
+    justify-content: space-around;
+    align-items: center;
+}
