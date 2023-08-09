@@ -11,7 +11,7 @@ export default function Page() {
   <div>
         <Image 
         className={styles.image1}
-      src="/../public/image/Rectangle 25.jpg"
+      src="https://github.com/nikita120402/next13-deploy/blob/main/public/image/Rectangle%2025.jpg?raw=true"
       alt="Picture"
       width={1500}
       height={600}
