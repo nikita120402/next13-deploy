@@ -3,10 +3,7 @@ import styles from './Design.module.css'
 import { useState } from 'react';
 import Calendar from 'react-calendar';
 export default function Page() {
-  function setValue(value: any): import("react").ReactNode {
-    throw new Error('Function not implemented.');
   }
-
   return (
   <div>
         <Image 
